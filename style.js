@@ -1,4 +1,4 @@
-import {StyleSheet,Platform} from 'react-native';
+import {StyleSheet,Platform,Dimensions} from 'react-native';
 var size = Dimensions.get('window');
 var scale = Platform.OS==='ios'?size.width/375.0:size.height/717.0;
 const styles = StyleSheet.create({

@@ -1,6 +1,6 @@
 {
   "name": "react-native-rhtitleinput",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "项目常用带标题的Input",
   "main": "index.js",
   "scripts": {
