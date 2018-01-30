@@ -1,0 +1,25 @@
+{
+  "name": "react-native-rhtitleinput",
+  "version": "0.0.3",
+  "description": "项目常用带标题的Input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elex92/React-Native-RHTitleTextInput.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "ruihao",
+    "titleinput"
+  ],
+  "author": "elex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elex92/React-Native-RHTitleTextInput/issues"
+  },
+  "homepage": "https://github.com/Elex92/React-Native-RHTitleTextInput#readme"
+}
